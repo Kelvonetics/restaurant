@@ -1,0 +1,737 @@
+{
+  "confectioneries": [
+    {
+      "id": "1",
+      "name": "Burger",
+      "imgUrl": "/../src/assets/Confectioneries/confectioneries-1.jpg",
+      "price": "16,000",
+      "duration": "25m",
+      "recipe": [
+        "Spicy",
+        "Buffalo",
+        "Cauliflower Bites"
+      ],
+      "address": "123, White Heart Lane - Storms End.",
+      "ratings": 3,
+      "restaurant": "Delight Place",
+      "description": "Macarons - Delicate, airy almond meringue cookies sandwiched with rich ganache, buttercream, or jam. These French confections come in a variety of flavors like pistachio, raspberry, and chocolate, offering a perfect balance of crispiness and chewiness in every colorful bite."
+    },
+    {
+      "id": "2",
+      "name": "Chocolate Truffles",
+      "imgUrl": "/../src/assets/confectioneries/confectioneries-2.jpg",
+      "price": "22,700",
+      "duration": "30",
+      "recipe": [
+        "Crispy",
+        "Mozzarella",
+        "Sticks"
+      ],
+      "address": "11, Peak Lane - Storms End.",
+      "ratings": 5,
+      "restaurant": "Yummies",
+      "description": "Decadent bite-sized treats made from smooth, creamy ganache, coated in cocoa powder, nuts, or chocolate. These luxurious confections melt in your mouth, delivering an intense chocolate flavor with a velvety texture, perfect for indulgence or gifting."
+    },
+    {
+      "id": "3",
+      "name": "Just Cake",
+      "imgUrl": "/../src/assets/confectioneries/confectioneries-3.jpg",
+      "price": "19,200",
+      "duration": "15m",
+      "recipe": [
+        "Stuffed",
+        "Jalapeño",
+        "Poppers"
+      ],
+      "address": "90, Best way Lane - Storms End.",
+      "ratings": 2,
+      "restaurant": "Grubs",
+      "description": "Baklava - A rich and flaky Middle Eastern pastry made with layers of buttery phyllo dough, filled with chopped nuts, and drenched in fragrant honey or syrup. Infused with cinnamon and cardamom, this sweet treat offers a satisfying crunch with every bite."
+    },
+    {
+      "id": "4",
+      "name": "Vanilla Cake",
+      "imgUrl": "/../src/assets/confectioneries/confectioneries-4.jpg",
+      "price": "13,990",
+      "duration": "45m",
+      "recipe": [
+        "Spinach",
+        "Artichoke Dip"
+      ],
+      "address": "123, White Heart Lane - Storms End.",
+      "ratings": 3,
+      "restaurant": "Asian Lounge",
+      "description": "A classic French pastry made from light choux dough, filled with luscious vanilla or chocolate cream, and topped with a glossy chocolate glaze. With its crisp exterior and creamy center, the éclair is a delightful balance of textures and flavors."
+    },
+    {
+      "id": "5",
+      "name": "Shrubbery Cake",
+      "imgUrl": "/../src/assets/confectioneries/confectioneries-5.jpg",
+      "price": "12,500",
+      "duration": "25m",
+      "recipe": [
+        "Creamy",
+        "Tomato",
+        "Basil Soup"
+      ],
+      "address": "45, Lekki Expressway - Storms End.",
+      "ratings": 4,
+      "restaurant": "Top Kitchen",
+      "description": "A chewy, jelly-like confection flavored with rose, lemon, or pomegranate, dusted in powdered sugar. These traditional Middle Eastern sweets often contain chopped nuts like pistachios or hazelnuts, offering a uniquely fragrant and satisfying treat."
+    },
+    {
+      "id": "6",
+      "name": "Cup Cake",
+      "imgUrl": "/../src/assets/confectioneries/confectioneries-6.jpg",
+      "price": "21,000",
+      "duration": "25m",
+      "recipe": [
+        "Chicken",
+        "Tikka",
+        "Masala"
+      ],
+      "address": "30, Ya Left - Storms End.",
+      "ratings": 3,
+      "restaurant": "Might Place",
+      "description": "A sweet, almond-based confection made from ground almonds and sugar, often shaped into fruits, flowers, or decorative figures. With its soft, chewy texture and nutty flavor, marzipan is a festive delight enjoyed in desserts and holiday treats worldwide."
+    },
+    {
+      "name": "Vanilla Creamy Cake",
+      "price": "13500",
+      "duration": "10m",
+      "recipe": "Cream, Vanilla, Sugar",
+      "address": "11, April  Crescent  Lagos",
+      "ratings": 1,
+      "restaurant": "Cake Delight",
+      "description": "Lovely Vanilla Creamy Cake for your enjoyment  and delight. try our carefully made local meal from top -lass chefs around the world to quench your hunger, and thank me later",
+      "imgUrl": "/../src/assets/confectioneries/confectioneries-7.jpeg",
+      "id": "6ff7"
+    }
+  ],
+  "local": [
+    {
+      "id": "1",
+      "name": "Local Assaulted meat",
+      "imgUrl": "/../src/assets/Local/local-assaulted.jpg",
+      "price": "16,000",
+      "duration": "25m",
+      "recipe": [
+        "Spicy, ",
+        "Buffalo, ",
+        "Cauliflower Bites"
+      ],
+      "address": "123, White Heart Lane - Storms End.",
+      "ratings": "5",
+      "restaurant": "Delight Place",
+      "description": "A fragrant rice dish cooked in coconut milk, served with crispy anchovies, peanuts, boiled egg, spicy sambal, and cucumber. Often accompanied by fried chicken or rendang, this beloved Malaysian dish is a perfect balance of sweet, spicy, and savory flavors."
+    },
+    {
+      "id": "2",
+      "name": "Local Meat Meal",
+      "imgUrl": "/../src/assets/local/local-meat.jpg",
+      "price": "22,700",
+      "duration": "30",
+      "recipe": [
+        "Crispy",
+        "Mozzarella",
+        "Sticks"
+      ],
+      "address": "11, Peak Lane - Storms End.",
+      "ratings": "3",
+      "restaurant": "Yummies",
+      "description": "A flavorful Thai stir-fry made with minced meat (or tofu), holy basil, garlic, and chili, served over steamed rice with a crispy fried egg. This spicy, aromatic dish is a Thai street food favorite, known for its bold and savory flavors."
+    },
+    {
+      "id": "3",
+      "name": "Locally Made Rice",
+      "imgUrl": "/../src/assets/local/local-rice.jpg",
+      "price": "19200",
+      "duration": "15m",
+      "recipe": [
+        "Stuffed",
+        "Jalapeño",
+        "Poppers"
+      ],
+      "address": "90, Best way Lane - Storms End.",
+      "ratings": "4",
+      "restaurant": "Grubs",
+      "description": "A vibrant, one-pot rice dish cooked in a tomato-based sauce with peppers, onions, and spices. Popular in Nigeria, Ghana, and Senegal, it’s often served with fried plantains and grilled chicken, delivering a bold, smoky, and slightly spicy taste."
+    },
+    {
+      "id": "4",
+      "name": "Local Soup Dish",
+      "imgUrl": "/../src/assets/local/local-soup.jpg",
+      "price": "13990",
+      "duration": "45m",
+      "recipe": [
+        "Spinach",
+        "Artichoke Dip"
+      ],
+      "address": "123, White Heart Lane - Storms End.",
+      "ratings": "3",
+      "restaurant": "Asian Lounge",
+      "description": "A rich and hearty black bean stew slow-cooked with smoked meats, garlic, and onions. Traditionally served with rice, collard greens, and orange slices, this dish is a staple of Brazilian cuisine, offering deep, comforting flavors perfect for family gatherings."
+    },
+    {
+      "id": "5",
+      "name": "Local Mix Rice",
+      "imgUrl": "/../src/assets/local/local-chicken.jpg",
+      "price": "12500",
+      "duration": "25m",
+      "recipe": [
+        "Creamy",
+        "Tomato",
+        "Basil Soup"
+      ],
+      "address": "45, Lekki Expressway - Storms End.",
+      "ratings": "2",
+      "restaurant": "Top Kitchen",
+      "description": "A South African baked dish made of spiced minced meat topped with an egg custard layer. Flavored with curry, dried fruits, and bay leaves, it has a unique sweet and savory taste, often served with yellow rice and chutney."
+    },
+    {
+      "id": "6",
+      "name": "Locally Prepared Chicken",
+      "imgUrl": "/../src/assets/local/local-mix-rice.jpg",
+      "price": "21,000",
+      "duration": "25m",
+      "recipe": [
+        "Chicken",
+        "Tikka",
+        "Masala"
+      ],
+      "address": "30, Ya Left - Storms End.",
+      "ratings": "5",
+      "restaurant": "Might Place",
+      "description": "A classic Filipino dish where meat (chicken or pork) is braised in soy sauce, vinegar, garlic, and black peppercorns. With a balance of tangy, salty, and savory flavors, it’s a comforting and versatile dish served with steamed rice."
+    }
+  ],
+  "continental": [
+    {
+      "id": "1",
+      "name": "Grilled Herb-Crusted Salmon",
+      "imgUrl": "/../src/assets/continental/continental-1.jpg",
+      "price": "16,000",
+      "duration": "25m",
+      "recipe": [
+        "Spicy",
+        "Buffalo",
+        "Cauliflower Bites"
+      ],
+      "address": "123, White Heart Lane - Storms End.",
+      "ratings": "3",
+      "restaurant": "Delight Place",
+      "description": "Tender salmon fillet coated in a fragrant mix of fresh herbs, garlic, and lemon zest, then grilled to perfection. Served with a side of buttery asparagus and roasted potatoes, this dish offers a delightful balance of freshness and rich flavors."
+    },
+    {
+      "id": "2",
+      "name": "Creamy Mushroom Risotto",
+      "imgUrl": "/../src/assets/continental/continental-2.jpg",
+      "price": "22,700",
+      "duration": "30",
+      "recipe": [
+        "Crispy",
+        "Mozzarella",
+        "Sticks"
+      ],
+      "address": "11, Peak Lane - Storms End.",
+      "ratings": "3",
+      "restaurant": "Yummies",
+      "description": "A velvety Italian rice dish cooked slowly with Arborio rice, earthy mushrooms, and white wine. Infused with parmesan cheese and butter, this dish has a luxurious, creamy texture and deep umami flavor, making it a perfect comfort meal."
+    },
+    {
+      "id": "3",
+      "name": "Classic French Ratatouille",
+      "imgUrl": "/../src/assets/continental/continental-3.jpg",
+      "price": "19,200",
+      "duration": "15m",
+      "recipe": [
+        "Stuffed",
+        "Jalapeño",
+        "Poppers"
+      ],
+      "address": "90, Best way Lane - Storms End.",
+      "ratings": "4",
+      "restaurant": "Grubs",
+      "description": "A vibrant, slow-cooked vegetable medley featuring zucchini, eggplant, bell peppers, and tomatoes. Infused with garlic, olive oil, and fresh herbs, this Provençal dish is light yet flavorful, offering a perfect balance of sweetness and tanginess."
+    },
+    {
+      "id": "4",
+      "name": "Spanish Paella Valenciana",
+      "imgUrl": "/../src/assets/continental/continental-4.jpg",
+      "price": "13,990",
+      "duration": "45m",
+      "recipe": [
+        "Spinach",
+        "Artichoke Dip"
+      ],
+      "address": "123, White Heart Lane - Storms End.",
+      "ratings": "5",
+      "restaurant": "Asian Lounge",
+      "description": "A traditional Spanish rice dish infused with saffron, featuring a mix of vegetables, bell peppers, and sometimes seafood or meat. Cooked in a shallow pan, this dish offers a rich, aromatic, and smoky flavor with every bite."
+    },
+    {
+      "id": "5",
+      "name": "English Shepherd’s Pie",
+      "imgUrl": "/../src/assets/continental/continental-5.jpg",
+      "price": "12,500",
+      "duration": "25m",
+      "recipe": [
+        "Creamy",
+        "Tomato",
+        "Basil Soup"
+      ],
+      "address": "45, Lekki Expressway - Storms End.",
+      "ratings": "3",
+      "restaurant": "Top Kitchen",
+      "description": "A comforting British classic made with a savory filling of seasoned vegetables and lentils (or minced meat), topped with creamy mashed potatoes. Baked until golden and crispy, this hearty dish is a perfect balance of rich flavors and comforting textures."
+    },
+    {
+      "id": "6",
+      "name": "Greek Moussaka",
+      "imgUrl": "/../src/assets/continental/continental-6.jpg",
+      "price": "21,000",
+      "duration": "25m",
+      "recipe": [
+        "Chicken",
+        "Tikka",
+        "Masala"
+      ],
+      "address": "30, Ya Left - Storms End.",
+      "ratings": "2",
+      "restaurant": "Might Place",
+      "description": "A layered casserole featuring spiced eggplant, zucchini, and potatoes, smothered in a rich tomato sauce and creamy béchamel. This Greek specialty is baked to golden perfection, offering a satisfying blend of textures and Mediterranean flavors."
+    }
+  ],
+  "chinese": [
+    {
+      "id": "1",
+      "name": "Kung Pao Chicken",
+      "imgUrl": "/../src/assets/chinese/chinese-1.jpg",
+      "price": "16,000",
+      "duration": "25m",
+      "recipe": [
+        "Spicy",
+        "Buffalo",
+        "Cauliflower Bites"
+      ],
+      "address": "123, White Heart Lane - Storms End.",
+      "ratings": "4",
+      "restaurant": "Delight Place",
+      "description": "A Sichuan classic, Kung Pao Chicken features tender chicken stir-fried with crunchy peanuts, dried chilies, and bell peppers in a savory, spicy, and slightly sweet sauce. Infused with garlic, ginger, and soy sauce, it delivers a bold and addictive flavor."
+    },
+    {
+      "id": "2",
+      "name": "Peking Duck",
+      "imgUrl": "/../src/assets/chinese/chinese-9.jpg",
+      "price": "22,700",
+      "duration": "30",
+      "recipe": [
+        "Crispy",
+        "Mozzarella",
+        "Sticks"
+      ],
+      "address": "11, Peak Lane - Storms End.",
+      "ratings": "5",
+      "restaurant": "Yummies",
+      "description": "A Beijing delicacy, Peking Duck is famous for its crispy, golden-brown skin and succulent meat. Traditionally served with thin pancakes, hoisin sauce, and scallions, each bite is a perfect balance of rich, smoky flavors and delicate textures. A true culinary masterpiece!"
+    },
+    {
+      "id": "3",
+      "name": "Dim Sum (Assorted Dumplings)",
+      "imgUrl": "/../src/assets/chinese/chinese-3.jpg",
+      "price": "19,200",
+      "duration": "15m",
+      "recipe": [
+        "Stuffed",
+        "Jalapeño",
+        "Poppers"
+      ],
+      "address": "90, Best way Lane - Storms End.",
+      "ratings": "5",
+      "restaurant": "Grubs",
+      "description": "Lasagna al Forno – An Italian layered pasta dish with rich meat sauce, creamy béchamel, and melted cheese, baked to perfection."
+    },
+    {
+      "id": "4",
+      "name": "Mapo Tofu",
+      "imgUrl": "/../src/assets/chinese/chinese-4.jpg",
+      "price": "13,990",
+      "duration": "45m",
+      "recipe": [
+        "Spinach",
+        "Artichoke Dip"
+      ],
+      "address": "123, White Heart Lane - Storms End.",
+      "ratings": "4",
+      "restaurant": "Asian Lounge",
+      "description": "A fiery Sichuan dish featuring silky tofu and minced pork in a spicy, numbing chili-bean sauce. The bold flavors of Sichuan peppercorns, garlic, and fermented black beans create a mouthwatering, umami-rich dish that pairs perfectly with steamed rice."
+    },
+    {
+      "id": "5",
+      "name": "Hot and Sour Soup",
+      "imgUrl": "/../src/assets/chinese/chinese-6.jpg",
+      "price": "12,500",
+      "duration": "25m",
+      "recipe": [
+        "Creamy",
+        "Tomato",
+        "Basil Soup"
+      ],
+      "address": "45, Lekki Expressway - Storms End.",
+      "ratings": "4",
+      "restaurant": "Top Kitchen",
+      "description": "This comforting soup balances tangy vinegar, spicy white pepper, and rich umami flavors. Filled with tofu, mushrooms, bamboo shoots, and egg ribbons, it offers a deliciously warming experience that awakens the senses with every spoonful."
+    },
+    {
+      "id": "6",
+      "name": "Chow Mein",
+      "imgUrl": "/../src/assets/chinese/chinese-7.jpeg",
+      "price": "21,000",
+      "duration": "25m",
+      "recipe": [
+        "Chicken",
+        "Tikka",
+        "Masala"
+      ],
+      "address": "30, Ya Left - Storms End.",
+      "ratings": "5",
+      "restaurant": "Might Place",
+      "description": "A stir-fried noodle dish packed with crisp vegetables, tender meat or tofu, and a savory soy-based sauce. The noodles are pan-fried to a slight crisp, creating a delightful texture contrast. A beloved dish enjoyed in Chinese cuisine worldwide."
+    }
+  ],
+  "vegetarian": [
+    {
+      "id": "1",
+      "name": "Paneer Tikka Masala",
+      "imgUrl": "/../src/assets/vegetarian/vegetarian-1.jpg",
+      "price": "16,000",
+      "duration": "25m",
+      "recipe": [
+        "Spicy",
+        "Buffalo",
+        "Cauliflower Bites"
+      ],
+      "address": "123, White Heart Lane - Storms End.",
+      "ratings": "3",
+      "restaurant": "Delight Place",
+      "description": "A rich and creamy North Indian curry featuring grilled paneer cubes simmered in a spiced tomato and cashew-based gravy. Infused with aromatic spices and finished with fresh cream, this dish pairs perfectly with naan or steamed basmati rice."
+    },
+    {
+      "id": "2",
+      "name": "Mediterranean Falafel Wrap",
+      "imgUrl": "/../src/assets/vegetarian/vegetarian-2.jpg",
+      "price": "22,700",
+      "duration": "30",
+      "recipe": [
+        "Crispy",
+        "Mozzarella",
+        "Sticks"
+      ],
+      "address": "11, Peak Lane - Storms End.",
+      "ratings": "4",
+      "restaurant": "Yummies",
+      "description": "Crispy, golden falafels wrapped in soft pita bread with crunchy lettuce, juicy tomatoes, and tangy pickles. Drizzled with creamy tahini sauce and a hint of garlic, this wholesome wrap is packed with protein and Mediterranean flavors, perfect for a fulfilling vegetarian meal."
+    },
+    {
+      "id": "3",
+      "name": "Thai Green Curry with Tofu",
+      "imgUrl": "/../src/assets/vegetarian/vegetarian-3.jpg",
+      "price": "19,200",
+      "duration": "15m",
+      "recipe": [
+        "Stuffed",
+        "Jalapeño",
+        "Poppers"
+      ],
+      "address": "90, Best way Lane - Storms End.",
+      "ratings": "2",
+      "restaurant": "Grubs",
+      "description": "A fragrant and creamy coconut curry loaded with tofu, bell peppers, and zucchini. Infused with Thai green curry paste, lemongrass, and kaffir lime leaves, this dish delivers a perfect balance of heat, sweetness, and umami, best enjoyed with jasmine rice."
+    },
+    {
+      "id": "4",
+      "name": "Stuffed Bell Peppers with Quinoa",
+      "imgUrl": "/../src/assets/vegetarian/vegetarian-4.jpg",
+      "price": "13,990",
+      "duration": "45m",
+      "recipe": [
+        "Spinach",
+        "Artichoke Dip"
+      ],
+      "address": "123, White Heart Lane - Storms End.",
+      "ratings": "5",
+      "restaurant": "Asian Lounge",
+      "description": "Vibrant bell peppers stuffed with a hearty mixture of quinoa, black beans, tomatoes, and spices, then baked to perfection. Topped with melted cheese or a dairy-free alternative, this dish is a nutritious and colorful delight with every bite."
+    },
+    {
+      "id": "5",
+      "name": "Spinach and Ricotta Stuffed Shells",
+      "imgUrl": "/../src/assets/vegetarian/vegetarian-7.jpeg",
+      "price": "12,500",
+      "duration": "25m",
+      "recipe": [
+        "Creamy",
+        "Tomato",
+        "Basil Soup"
+      ],
+      "address": "45, Lekki Expressway - Storms End.",
+      "ratings": "3",
+      "restaurant": "Top Kitchen",
+      "description": "Jumbo pasta shells filled with a creamy ricotta and spinach mixture, baked in a rich tomato sauce and topped with mozzarella cheese. This Italian-inspired dish is comfort food at its best, offering a satisfying combination of cheesy, herby, and tangy flavors."
+    },
+    {
+      "id": "6",
+      "name": "Spiced Chickpea and Sweet Potato Curry",
+      "imgUrl": "/../src/assets/vegetarian/vegetarian-8.jpg",
+      "price": "21,000",
+      "duration": "25m",
+      "recipe": [
+        "Chicken",
+        "Tikka",
+        "Masala"
+      ],
+      "address": "30, Ya Left - Storms End.",
+      "ratings": "4",
+      "restaurant": "Might Place",
+      "description": "A wholesome and aromatic curry featuring tender sweet potatoes and protein-packed chickpeas simmered in a fragrant tomato and coconut sauce. Infused with cumin, coriander, and turmeric, this dish is both hearty and comforting, perfect for a cozy vegetarian meal."
+    }
+  ],
+  "appetizer": [
+    {
+      "id": "1",
+      "name": "Crispy Zucchini Fritters",
+      "imgUrl": "/../src/assets/appetizer/appetizer-1.jpg",
+      "price": "16,000",
+      "duration": "25m",
+      "recipe": [
+        "Spicy, ",
+        "Buffalo, ",
+        "Cauliflower Bites"
+      ],
+      "address": "123, White Heart Lane - Storms End.",
+      "ratings": "2",
+      "restaurant": "Delight Place",
+      "description": "Golden-brown zucchini fritters, lightly seasoned and pan-fried to perfection. These crispy bites have a tender, flavorful center and are served with a cool garlic yogurt dip. A delightful balance of crunch and freshness, perfect for any appetizer spread."
+    },
+    {
+      "id": "2",
+      "name": "Spicy Buffalo Cauliflower Bites",
+      "imgUrl": "/../src/assets/appetizer/appetizer-2.jpg",
+      "price": "22,700",
+      "duration": "30",
+      "recipe": [
+        "Crispy",
+        "Mozzarella",
+        "Sticks"
+      ],
+      "address": "11, Peak Lane - Storms End.",
+      "ratings": [
+        1
+      ],
+      "restaurant": "Yummies",
+      "description": "Crispy, oven-baked cauliflower florets tossed in a zesty buffalo sauce. These bite-sized treats pack a bold, tangy heat and are served with creamy ranch or blue cheese dressing, making them a perfect vegetarian alternative to classic buffalo wings."
+    },
+    {
+      "id": "3",
+      "name": "Stuffed Mushroom Caps",
+      "imgUrl": "/../src/assets/appetizer/appetizer-3.jpg",
+      "price": "19,200",
+      "duration": "15m",
+      "recipe": [
+        "Stuffed",
+        "Jalapeño",
+        "Poppers"
+      ],
+      "address": "90, Best way Lane - Storms End.",
+      "ratings": "3",
+      "restaurant": "Grubs",
+      "description": "Juicy mushroom caps filled with a savory mixture of cream cheese, garlic, and herbs, then baked until golden and bubbly. Each bite is rich, creamy, and bursting with umami, making them an irresistible appetizer for any gathering."
+    },
+    {
+      "id": "4",
+      "name": "Crispy Cheese-Stuffed Jalapeño Poppers",
+      "imgUrl": "/../src/assets/appetizer/appetizer-4.jpg",
+      "price": "13,990",
+      "duration": "45m",
+      "recipe": [
+        "Spinach",
+        "Artichoke Dip"
+      ],
+      "address": "123, White Heart Lane - Storms End.",
+      "ratings": "4",
+      "restaurant": "Asian Lounge",
+      "description": "Fresh jalapeños filled with a creamy cheese blend, coated in a crispy golden breadcrumb crust, and deep-fried to perfection. The perfect combination of heat and creaminess, these poppers deliver a satisfying crunch with every spicy, cheesy bite."
+    },
+    {
+      "id": "5",
+      "name": "Garlic Butter Shrimp Skewers",
+      "imgUrl": "/../src/assets/appetizer/appetizer-5.jpg",
+      "price": "12,500",
+      "duration": "25m",
+      "recipe": [
+        "Creamy",
+        "Tomato",
+        "Basil Soup"
+      ],
+      "address": "45, Lekki Expressway - Storms End.",
+      "ratings": "5",
+      "restaurant": "Top Kitchen",
+      "description": "Juicy shrimp marinated in a flavorful garlic butter sauce, skewered, and grilled to perfection. Lightly seasoned with herbs and a splash of lemon, these skewers are a simple yet elegant appetizer packed with bold, fresh flavors."
+    },
+    {
+      "id": "6",
+      "name": "Mini Caprese Skewers",
+      "imgUrl": "/../src/assets/appetizer/appetizer-6.jpeg",
+      "price": "21,000",
+      "duration": "25m",
+      "recipe": [
+        "Chicken",
+        "Tikka",
+        "Masala"
+      ],
+      "address": "30, Ya Left - Storms End.",
+      "ratings": "3",
+      "restaurant": "Might Place",
+      "description": "A fresh and colorful appetizer featuring cherry tomatoes, mozzarella balls, and fresh basil leaves drizzled with balsamic glaze. These bite-sized skewers are a refreshing and elegant starter that perfectly balances creamy, tangy, and herby flavors."
+    }
+  ],
+  "drinks": [
+    {
+      "name": "Fruity Juice",
+      "price": "7000",
+      "duration": "15m",
+      "recipe": "Orange, Apple",
+      "address": "Berger place Abuja",
+      "ratings": 3,
+      "restaurant": "Coldstone",
+      "description": "Fruity Juice drink for a cool day. Start your day with this lovely cool drink  for your soul",
+      "imgUrl": "/../src/assets/drinks/drinks-2.jpeg",
+      "id": "6e96"
+    },
+    {
+      "name": "Griffy Red Wine",
+      "price": "9500",
+      "duration": "10m",
+      "recipe": "Sweetener, Grapes, Dates",
+      "address": "19, Modolian Place, Epe Lagos",
+      "ratings": 4,
+      "restaurant": "Dominos",
+      "description": "Griffy Red Wine for the very occation, Live the experience and celebrate that occasion with Griffy Red Wine while you won't regrat your choice",
+      "imgUrl": "/../src/assets/drinks/drinks-4.jpeg",
+      "id": "681b"
+    },
+    {
+      "id": "a6e4",
+      "name": "Decafinated Coffee ",
+      "price": "9500",
+      "duration": "10m",
+      "recipe": "Cream, Coffee blend",
+      "address": "12, King Avenue Lagos",
+      "ratings": 4,
+      "restaurant": "Dominos",
+      "description": "Decafinated Coffee with creamy look and aroma to put you in the mode for the morning. No sugar and best for reducing your colestoral ",
+      "imgUrl": "/../src/assets/drinks/drinks-5.jpeg"
+    }
+  ],
+  "favorites": [
+    {
+      "id": "2",
+      "name": "Peking Duck",
+      "price": "22,700",
+      "duration": "30",
+      "recipe": [
+        "Crispy",
+        "Mozzarella",
+        "Sticks"
+      ],
+      "address": "11, Peak Lane - Storms End.",
+      "ratings": "5",
+      "restaurant": "Yummies",
+      "description": "A Beijing delicacy, Peking Duck is famous for its crispy, golden-brown skin and succulent meat. Traditionally served with thin pancakes, hoisin sauce, and scallions, each bite is a perfect balance of rich, smoky flavors and delicate textures. A true culinary masterpiece!",
+      "imgUrl": "/../src/assets/chinese/chinese-9.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Chocolate Truffles",
+      "price": "22,700",
+      "duration": "30",
+      "recipe": [
+        "Crispy",
+        "Mozzarella",
+        "Sticks"
+      ],
+      "address": "11, Peak Lane - Storms End.",
+      "ratings": 5,
+      "restaurant": "Yummies",
+      "description": "Decadent bite-sized treats made from smooth, creamy ganache, coated in cocoa powder, nuts, or chocolate. These luxurious confections melt in your mouth, delivering an intense chocolate flavor with a velvety texture, perfect for indulgence or gifting.",
+      "imgUrl": "/../src/assets/confectioneries/confectioneries-2.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Local Soup Dish",
+      "price": "13,990",
+      "duration": "45m",
+      "recipe": [
+        "Spinach",
+        "Artichoke Dip"
+      ],
+      "address": "123, White Heart Lane - Storms End.",
+      "ratings": "3",
+      "restaurant": "Asian Lounge",
+      "description": "A rich and hearty black bean stew slow-cooked with smoked meats, garlic, and onions. Traditionally served with rice, collard greens, and orange slices, this dish is a staple of Brazilian cuisine, offering deep, comforting flavors perfect for family gatherings.",
+      "imgUrl": "/../src/assets/local/local-soup.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Crispy Cheese-Stuffed Jalapeño Poppers",
+      "price": "13,990",
+      "duration": "45m",
+      "recipe": [
+        "Spinach",
+        "Artichoke Dip"
+      ],
+      "address": "123, White Heart Lane - Storms End.",
+      "ratings": "4",
+      "restaurant": "Asian Lounge",
+      "description": "Fresh jalapeños filled with a creamy cheese blend, coated in a crispy golden breadcrumb crust, and deep-fried to perfection. The perfect combination of heat and creaminess, these poppers deliver a satisfying crunch with every spicy, cheesy bite.",
+      "imgUrl": "/../src/assets/appetizer/appetizer-4.jpg"
+    }
+  ],
+  "users": [
+    {
+      "id": "51ad",
+      "name": "Jane Doe",
+      "email": "janedoe@delight.com",
+      "password": "jane@123",
+      "phone": "08013243546"
+    },
+    {
+      "id": "4ac0",
+      "name": "Richard",
+      "email": "richard@you.co",
+      "password": "richard@123",
+      "phone": "09098734534"
+    },
+    {
+      "id": "ca53",
+      "name": "Emily Rhodes",
+      "email": "emily@game.com",
+      "password": "emily@123",
+      "phone": "08087654321"
+    },
+    {
+      "id": "5522",
+      "name": "Test",
+      "email": "test@game.com",
+      "password": "123456",
+      "phone": "08035467823"
+    },
+    {
+      "id": "0fab",
+      "name": "Emily Rhodes",
+      "email": "emily@game.com",
+      "password": "emily@123",
+      "phone": "09024315687"
+    }
+  ]
+}
