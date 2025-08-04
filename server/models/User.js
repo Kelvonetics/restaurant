@@ -6,7 +6,7 @@ const userSchema = new mongoose.Schema({
     password: { type: String, required: true },
     phone: { type: String, required: true },
     photo: { type: String },
-    role: { type: String, default: 'admin' },
+    role: { type: String, default: 'user' },
     favorites: [{ type: mongoose.Schema.Types.ObjectId, ref: "Food", default: null }],
 }, {timestamps: true});
 
